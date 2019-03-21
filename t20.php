@@ -23,9 +23,12 @@ class Number
 	}
 }
 echo "<pre>";
-$arr = [1, 2, 9, 10, 5, 2];
+$arr = [1, 5, 7, 18, 7, 3, 2];
 $obj = new Number;
 $obj->m($arr);
 echo "</pre>";
+
+
+echo "string";
 
  ?>
